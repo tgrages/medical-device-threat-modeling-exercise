@@ -1,0 +1,23 @@
+{
+  "totalModelThreats": 44,
+  "baselineGenerated": 41,
+  "customThreats": [
+    {
+      "id": "41",
+      "title": "T-01 Cross-patient upload through broken object authorization",
+      "state": "NeedsInvestigation"
+    },
+    {
+      "id": "42",
+      "title": "T-02 Replay or stale readings presented as current",
+      "state": "NeedsInvestigation"
+    },
+    {
+      "id": "43",
+      "title": "T-03 Upload resource exhaustion delays patient data",
+      "state": "NeedsInvestigation"
+    }
+  ],
+  "securityTestsExecuted": false,
+  "documentationReview": "41 baseline findings triaged in EXERCISE-REVIEW.md"
+}
